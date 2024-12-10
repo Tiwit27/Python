@@ -1,0 +1,10 @@
+Czas losowania: Mon Mar 25 10:10:55 2024
+Wylosowane liczby: [28, 18, 31, 30, 7, 35]
+Wytypowane liczby: [1, 2, 3, 4, 5, 6]
+Trafione Liczby: []
+------------------------------------------
+Czas losowania: Mon Mar 25 10:10:59 2024
+Wylosowane liczby: [34, 18, 48, 23, 7, 2]
+Wytypowane liczby: [2, 3, 4, 5, 6, 7]
+Trafione Liczby: [7, 2]
+------------------------------------------
